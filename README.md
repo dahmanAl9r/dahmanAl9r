@@ -18,8 +18,6 @@ i'm Yuji, i've 17y.o...i've been learning about malware dev for some months, i s
 
 
 
-### Socials
-
 ### Badges
 
 <b>My GitHub Stats</b>
